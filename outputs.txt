@@ -1,0 +1,39 @@
+Temperature 0.7:
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+
+
+Temperature 1.0:
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+
+
+Temperature 1.5:
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+Item: A bow crafted by elves.
+
+
+
